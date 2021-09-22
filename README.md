@@ -1,3 +1,3 @@
 # README
 
-Freelance proposal micro service to be integrated with Freelancemy
+Freelance proposal micro service built in ruby to be integrated with Freelancemy
